@@ -1,4 +1,4 @@
-`
+```
 PUT /metrics
 {
     "order" : 0,
@@ -46,4 +46,4 @@ PUT /metrics
     },
     "aliases" : { }
 }
-`
+```
